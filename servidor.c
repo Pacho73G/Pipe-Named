@@ -5,6 +5,7 @@ Fecha: 24/09/2024
 Materia: Sistemas Operativos
 Tema: Pipe Named o FIFO o Tuberia
 Topico: Comunicacion uni-Direccional
+            SERVIDOR
 ****************************************************************************/
 
 #include <stdio.h>
