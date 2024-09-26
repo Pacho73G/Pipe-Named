@@ -1,4 +1,4 @@
-tuberia con nombre o FIFO.
+Tuberia con nombre y FIFO.
 
 Una tubería con nombre es una versión extendida de la tubería tradicional en Unix. Mientras que una tubería tradicional es temporal y no tiene nombre, una tubería con nombre persiste mientras el sistema esté en funcionamiento o hasta que se elimine. Estas tuberías aparecen como archivos especiales en el sistema de archivos y permiten que múltiples procesos se conecten para leer y escribir, facilitando la comunicación entre ellos.
 
